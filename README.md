@@ -43,7 +43,7 @@
 <a href="https://facebook.com/your-facebook-username" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
-<a href="https://github.com/your-github-username" target="_blank">
+<a href="[https://github.com/your-github-username](https://github.com/Villaruelcpe)" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://x.com/your-x-username" target="_blank">
