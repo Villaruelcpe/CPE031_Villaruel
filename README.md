@@ -52,3 +52,18 @@
 <a href="https://discord.com/users/your-discord-id" target="_blank">
   <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
+
+<br>
+<br>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2htMDRhdDY1cTJwZnRsczB5Z2w2ODhmMHk0MHJocTh1eXgwbndkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QQiKTHqTULbm7iXOoz/giphy.gif" width="150"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VlMnkwcGxyNHAwY3htZmc5cWQ5djB2NjJyNTh4dDN6MDk5NnE1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/58DkA2Btff3yKVOQDK/giphy.gif" width="150"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFmbHl6N2h6MnRmbXNza2Rpc2dtMHZta3Fscm5rcW5nZnphY3d4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5EeIHLd7G9QfqSbFEs/giphy.gif" width="150"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFvOWxncDU2ZzN0ejM4aW53YWZqemJqZXNmdW16M21qM2dwN2RwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ewRCstqqkQX2vBNBQ/giphy.gif" width="150"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGF2dDA0ejRqM2pnYXgzZnlvdnUxcTNldm51bjdudjUzYzliMjhiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FvxJVhVVuxm1ugWRxU/giphy.gif" width="150"/>
+</p>
