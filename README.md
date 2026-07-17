@@ -29,10 +29,8 @@
 - This course is about transforming data into meaningful visual insights that help people understand, communicate, and make informed decisions
 
 <p align="center">
-  <b>QUESTION → DATA → VISUAL → INSIGHT → DECISION</b>
+  <code>QUESTION</code> ▸ <code>DATA</code> ▸ <code>VISUAL</code> ▸ <code>INSIGHT</code> ▸ <code>DECISION</code>
 </p>
-
-<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=28&pause=100000&color=FFFFFF&background=00000000&center=false&vCenter=true&width=400&height=45&lines=Contacts;&repeat=false" alt="Contacts" />
 
@@ -44,4 +42,13 @@
 </a>
 <a href="https://facebook.com/your-facebook-username" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://github.com/your-github-username" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://x.com/your-x-username" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="https://discord.com/users/your-discord-id" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
